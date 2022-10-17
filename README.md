@@ -23,4 +23,4 @@
 - Implementation of the Membership function
 
 ### Testing
-Run the `Pagerank' function from the command line and notice that the files graf1.out and graf2.out are good.
+Run the `Pagerank` function from the command line and notice that the files graf1.out and graf2.out are good.
